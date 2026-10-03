@@ -167,8 +167,3 @@ Python 3
 Git
 GitHub
 PyCharm
-
-Os códigos devem ser testados antes de serem enviados para revisão.
-Os módulos devem respeitar os nomes de funções e estruturas de dados combinados pela equipe.
-Após cada integração, o sistema completo deve ser testado.
-A branch main deve permanecer protegida conforme as regras configuradas no GitHub.
