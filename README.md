@@ -149,7 +149,7 @@ Após concluir a funcionalidade:
 
 
 
-## 📚 Conceitos Utilizados
+📚 Conceitos Utilizados
 
 Import
 
