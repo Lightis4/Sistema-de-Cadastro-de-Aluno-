@@ -159,8 +159,6 @@ From Import
 
 Importa apenas uma função específica.
 
-python
-
 🛠 Tecnologias Utilizadas
 
 - Python 3
