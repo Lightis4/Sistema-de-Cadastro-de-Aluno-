@@ -179,6 +179,3 @@ Este projeto tem como objetivo praticar:
 - Branches e Pull Requests
 
 Desenvolvido para fins acadêmicos e de aprendizagem.
-
-
-Esse README já está formatado para ficar profissional no GitHub e explicar à equipe exatamente como cada branch deve funcionar e como será o fluxo de desenvolvimento.
