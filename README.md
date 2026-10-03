@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Python com o objetivo de praticar programação modular, trabalho em equipe utilizando Git e GitHub, além do uso de branches e pull requests.
 
-## 📋 Funcionalidades
+📋 Funcionalidades
 
 - Cadastro de alunos
 - Listagem de alunos
@@ -11,7 +11,7 @@ Projeto desenvolvido em Python com o objetivo de praticar programação modular,
 - Menu interativo
 
 
-## 📁 Estrutura do Projeto
+📁 Estrutura do Projeto
 
 sistema_alunos/
 │
@@ -23,7 +23,7 @@ sistema_alunos/
 └── dados.py
 
 
-## 🚀 Como executar
+🚀 Como executar
 
 1. Clone o repositório:
 
@@ -41,7 +41,7 @@ bash
 python main.py
 
 
-## 👥 Organização da Equipe
+👥 Organização da Equipe
 
 A branch `main` é protegida e utilizada apenas para integração das funcionalidades.
 
@@ -176,4 +176,3 @@ Este projeto tem como objetivo praticar:
 - Trabalho colaborativo utilizando GitHub
 - Branches e Pull Requests
 
-Desenvolvido para fins acadêmicos e de aprendizagem.
