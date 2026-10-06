@@ -62,7 +62,7 @@ Arquivo: listar_alunos.py
 
 Responsável por exibir os alunos cadastrados.
 
-Enzo e Pedro Barbosa — Edição de alunos
+Enzo e Carlos — Edição de alunos
 
 Branch: feature-editar
 
