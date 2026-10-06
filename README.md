@@ -32,7 +32,7 @@ Os módulos serão desenvolvidos separadamente e integrados à branch main por m
 
 🚀 Como executar
 1. Clonar o repositório
-git clone <(https://github.com/Lightis4/Sistema-de-Cadastro-de-Aluno-.git)>
+git clone (https://github.com/Lightis4/Sistema-de-Cadastro-de-Aluno-.git)
 
 2. Entrar na pasta do projeto
 cd Sistema-de-Cadastro-de-Aluno
