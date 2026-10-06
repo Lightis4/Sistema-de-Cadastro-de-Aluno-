@@ -70,7 +70,7 @@ Arquivo: editar_aluno.py
 
 Responsável por permitir a edição dos dados de um aluno cadastrado.
 
-Pedro Barbosa — Remoção de alunos
+Iarley — Remoção de alunos
 
 Branch: feature-remover
 
