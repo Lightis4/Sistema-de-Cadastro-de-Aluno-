@@ -11,7 +11,11 @@ def remover_aluno():
     for i, aluno in enumerate(alunos, start=1):
         print(f"{i} - {aluno['nome']}")
 
-    numero = int(input("\nDigite o número do aluno que deseja remover: "))
+    try:
+        numero = int(input("\nDigite o número do aluno que deseja remover: "))
+    except ValueError:
+        print("\nDigite apenas um número.")
+        return
 
     if numero < 1 or numero > len(alunos):
         print("\nAluno não encontrado.")
