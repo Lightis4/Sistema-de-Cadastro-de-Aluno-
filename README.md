@@ -46,7 +46,7 @@ A branch main é protegida e representa a versão principal e integrada do proje
 
 Cada integrante deve trabalhar em sua própria branch, desenvolver somente a funcionalidade pela qual é responsável e enviar as alterações por Pull Request.
 
-Integrante 1 — Cadastro de alunos
+Pedro — Cadastro de alunos 
 
 Branch: feature-cadastro
 
@@ -54,7 +54,7 @@ Arquivo: cadastro_aluno.py
 
 Responsável por implementar o cadastro de novos alunos.
 
-Integrante 2 — Listagem de alunos
+Ronne — Listagem de alunos
 
 Branch: feature-listagem
 
@@ -62,7 +62,7 @@ Arquivo: listar_alunos.py
 
 Responsável por exibir os alunos cadastrados.
 
-Integrante 3 — Edição de alunos
+Enzo e Pedro Barbosa — Edição de alunos
 
 Branch: feature-editar
 
@@ -70,7 +70,7 @@ Arquivo: editar_aluno.py
 
 Responsável por permitir a edição dos dados de um aluno cadastrado.
 
-Integrante 4 — Remoção de alunos
+Pedro Barbosa — Remoção de alunos
 
 Branch: feature-remover
 
